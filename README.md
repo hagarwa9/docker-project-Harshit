@@ -10,6 +10,7 @@ step2: Go into the directory
        
 step3 : Run command:
         docker build -t <docker-project-name> .
+       
         Once the build is complete and the image is created, run docker
 
 step4: docker run -p 8000:90 <docker-project-name>
