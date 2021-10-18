@@ -21,3 +21,5 @@ step4: Run command:
        docker run -p 8000:90 <docker-project-name>
 
 step5: Go to http://localhost:8000 on the web browser to see the changes.
+
+Default username and password for the login page is "abcd" and any e-mail id will work.
